@@ -1,0 +1,6 @@
+{
+  "name": "Claro Portabilidad Co-Pilot",
+  "description": "Asistente de ventas avanzado para agentes de call center de Claro Colombia, con flujo de 6 fases, recomendador de productos y matriz de objeciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
